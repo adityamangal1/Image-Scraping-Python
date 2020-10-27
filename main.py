@@ -2,7 +2,9 @@
 Author - Aditya Mangal
 Date - 27 october 2020
 Purpose - Python mini task
-'''import bs4
+'''
+
+import bs4
 import requests
 import shutil
 import os
